@@ -1,0 +1,49 @@
+body {
+  min-width: 768px;
+  max-width: 960px;
+}
+
+body *{
+  background-color: hotpink;
+}
+h3 {
+  background-color: white;
+}
+
+.mobile{
+  display: none;
+}
+.content {
+  width: 100%;
+}
+
+.nav {
+  width: 100%;
+  height: 100px;
+  float: left;
+}
+
+.sub-nav {
+  width: 200px;
+  float: left;
+  height: 600px;
+}
+
+.feature{
+  width:380px;
+  height:200px;
+  float: left;
+}
+
+.tile {
+  clear: both;
+  width: 190px;
+  height: 250px;
+  float: left;
+}
+
+.footer {
+  clear: both;
+  height: 150px;
+  width: 760px;
+}
